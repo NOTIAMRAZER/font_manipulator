@@ -1,0 +1,42 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px;
+    color: white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.line{
+    height:6px;
+    width:100px;
+    background-color: white;
+    margin:8px auto;
+  }
